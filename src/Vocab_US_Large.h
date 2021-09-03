@@ -634,4 +634,7 @@ extern const uint8_t sp2_SAFE[]          PROGMEM;
 extern const uint8_t sp2_SOUTH[]         PROGMEM;
 extern const uint8_t sp2_TURN[]          PROGMEM;
 extern const uint8_t sp2_YELLOW[]        PROGMEM;
-
+extern const uint8_t sp2_ISSUE[]         PROGMEM;
+extern const uint8_t sp2_FOUND[]         PROGMEM;
+extern const uint8_t sp2_IN[]            PROGMEM;
+extern const uint8_t sp2_MAINTAINCE[]    PROGMEM;
